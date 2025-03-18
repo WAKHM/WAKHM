@@ -1,6 +1,6 @@
 <h3 align="center">Aspiring Developer</h3>
 <h3>👩‍💻 About Me:</h3>
-<p>I'm a dedicated student with a passion for software development. Over the next four years, my goal is to become a skilled and versatile developer,     mastering a range of programming languages and tools.</p>
+<p>I'm a passionate software developer with a strong focus on mobile and web development, AI, and machine learning. I enjoy building user-friendly and responsive applications while continuously learning and experimenting with new technologies. My goal is to create innovative solutions that make people's work easier while prioritizing environmental sustainability.</p>
 
 
 🌱 I’m currently learning **Java, Python, React, PHP**
